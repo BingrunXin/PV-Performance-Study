@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository's data, code, or report, please cite the repository as follows."
+title: "PV-Performance-Study"
+authors:
+  - family-names: "Xin"
+    given-names: "Ryan"
+date-released: "2025-08-22"
+url: "https://github.com/BingrunXin/PV-Performance-Study"
+license: "Code: MIT; Report & Figures: CC BY-NC 4.0"
