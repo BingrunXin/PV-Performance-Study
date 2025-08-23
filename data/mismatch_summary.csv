@@ -1,0 +1,2 @@
+sweep_timestamp_used,Pmax_sweep_W,Vmp_used_V,Imp_used_A,Ropt_used_Ohm,P150_nearest_W,instantaneous_mismatch_pct,day,E_150_Wh,E_max_Wh,daily_loss_pct
+2025-08-17 11:10:00,7772.5,17.029,,25.0,2632.5,66.13058861370216,2025-08-17,16975.796875,79279.5,78.58740673818579
