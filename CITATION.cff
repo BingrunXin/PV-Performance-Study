@@ -4,7 +4,7 @@ title: "Photovoltaic Module Field Study"
 version: "v1.2"
 date-released: 2025-08-24
 authors:
-  - family-names: Xin
-    given-names: Ryan
+  - family-names: 'Xin'
+    given-names: 'Ryan'
 url: "https://github.com/BingrunXin/PV-Performance-Study"
 license: "Code: MIT; Report: CC BY-NC 4.0"
