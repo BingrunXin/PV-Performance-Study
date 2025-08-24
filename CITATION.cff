@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this repository's data, code, or report, please cite the repository as follows."
-title: "PV-Performance-Study"
+message: "If you use this repository's data or code, please cite it as below."
+title: "Photovoltaic Module Field Study"
+version: "v1.2"
+date-released: 2025-08-24
 authors:
-  - family-names: "Xin"
-    given-names: "Ryan"
-date-released: "2025-08-22"
+  - family-names: Xin
+    given-names: Ryan
 url: "https://github.com/BingrunXin/PV-Performance-Study"
-license: "Code: MIT; Report & Figures: CC BY-NC 4.0"
+license: "Code: MIT; Report: CC BY-NC 4.0"
