@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Photovoltaic Module Field Study
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ryan
+    family-names: Xin
+    email: bingrunxin@gmail.com
+    orcid: 'https://orcid.org/0009-0004-3988-4955'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16940628
+repository-code: 'https://github.com/BingrunXin/PV-Performance-Study'
+abstract: >+
+  Photovoltaic Module Field Study — Release v1.0
+
+
+  This release archives the final report and key analysis
+  artifacts for the photovoltaic field experiment.
+
+keywords:
+  - PV
+  - solar panel
+  - practical analytic experiment
+version: v1.0
+date-released: '2025-08-25'
